@@ -47,3 +47,5 @@ if __name__ == "__main__":
     result = array_Real_Values + array_Nine
     print("Result of NumPy addition:", result)
 ```
+
+# Activity 2
